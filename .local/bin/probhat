@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+setxkbmap -model pc105 -layout us,bd -variant ,probhat -option grp:alt_space_toggle
